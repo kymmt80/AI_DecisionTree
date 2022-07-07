@@ -1,5 +1,5 @@
 # Decision Tree
-A Movie-Classifier made with Scikit-Learn library classifiers such as Decision Tree and Random Forest. The report can be found in ```CA4.ipynb```
+A Movie-Classifier made with Scikit-Learn library classifiers such as Decision Tree and Random Forest. The report can be found in ```report.ipynb```
 
 ## Table of Contents
 - Phase0: Data Analysis
